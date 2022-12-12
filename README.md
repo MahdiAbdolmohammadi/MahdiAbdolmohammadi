@@ -1,5 +1,5 @@
 # MahdiABM
-<h1 align="center">Hi 👋, I'm Abdolmohammadi</h1>
+<h1 align="center">Hi 👋, I'm MahdiABM</h1>
 <h3 align="center">A Machine Learning Engineer 🚀 having Advanced proficiency in Pytorch (Deep learning Framework) & other ML Frameworks, from work and academic experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiAbdolmohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="MahdiAbdolmohammadi" /> </p>
