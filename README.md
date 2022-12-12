@@ -1,10 +1,12 @@
 # MahdiABM
 <h1 align="center">Hi 👋, I'm MahdiABM</h1>
-<h3 align="center">A Machine Learning Engineer 🚀 having Advanced proficiency in Pytorch (Deep learning Framework) & other ML Frameworks, from work and academic experience.</h3>
+<h3 align="center">A Machine Learning Engineer 🚀having an experience in building Web and Server applications and Advanced proficiency in Pytorch (Deep learning Framework) & other ML Frameworks, from work and academic experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiAbdolmohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="MahdiAbdolmohammadi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MahdiAbdolmohammadi" target="blank"><img src="https://img.shields.io/twitter/follow/MahdiAbdolmohammadi?logo=twitter&style=for-the-badge" alt="MahdiAbdolmohammadi" /></a> </p>
+
+-  My Google Sholar : **https://scholar.google.com/citations?user=y55ll5YAAAAJ&hl=en**
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
